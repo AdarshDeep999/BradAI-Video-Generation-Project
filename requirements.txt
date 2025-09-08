@@ -1,0 +1,6 @@
+moviepy
+replicate
+python-dotenv
+google-generativeai
+azure-cognitiveservices-speech
+Pillow==9.5.0
